@@ -1,0 +1,10 @@
+# Scripts do tema WhiteSur (não necessários para uso)
+themes/WhiteSur-gtk-theme/*.sh
+themes/WhiteSur-gtk-theme/parse-sass.sh
+themes/WhiteSur-gtk-theme/make-release.sh
+themes/WhiteSur-gtk-theme/clean-git.sh
+
+# Pastas de desenvolvimento
+themes/WhiteSur-gtk-theme/.github/
+themes/WhiteSur-gtk-theme/src/
+themes/WhiteSur-gtk-theme/libs/
